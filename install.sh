@@ -8,7 +8,7 @@
 # Author: Matej Fabijanic <root4unix@gmail.com>
 
 # LKRG version
-version="0.8.1"
+version="0.9.1"
 
 work="$(cd $(dirname $0) && pwd)"
 
